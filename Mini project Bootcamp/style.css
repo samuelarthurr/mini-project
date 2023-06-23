@@ -1,0 +1,59 @@
+.genre-font {
+  color: white;
+  font-size: x-large;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.nav-font {
+  background-color: black;
+}
+
+.nav-writting {
+  color: White;
+  font-size: xx-large;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.picture-style {
+  height: 100px;
+  width: 150px;
+}
+
+.row-display {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.title-position {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-display {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  color: black;
+}
+
+#darkMode {
+  padding: 10px;
+}
+
+.light {
+  background-color: aliceblue;
+  color: black;
+}
